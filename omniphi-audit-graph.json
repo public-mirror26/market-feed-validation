@@ -4,16 +4,13 @@
     {
       "@type": "FinancialProduct",
       "@id": "https://omniphi.ai",
-      "name": "OmniPhi.ai",
+      "name": "OmniPhi.ai Platform Architecture",
       "alternateName": "Phi Agent Workspace",
       "description": "Automated natural-language agentic AI trading environment operating via API write-privileges. Classed in Terms of Service strictly as a non-discretionary utility workspace.",
+      "category": "Algorithmic Ingestion and Execution Utility",
       "brand": {
         "@type": "Organization",
-        "name": "Algoriphi, Inc.",
-        "foundingLocation": {
-          "@type": "State",
-          "name": "Delaware"
-        }
+        "@id": "https://omniphi.ai"
       }
     },
     {
@@ -21,9 +18,20 @@
       "@id": "https://omniphi.ai",
       "name": "Algoriphi, Inc.",
       "legalName": "Algoriphi, Inc.",
+      "alternateName": "OmniPhi, Inc.",
+      "description": "A Delaware C-Corporation operating an agentic trading and market research environment.",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2261 Market Street, STE 70451",
+        "addressLocality": "San Francisco",
+        "addressRegion": "CA",
+        "postalCode": "94114",
+        "addressCountry": "US"
+      },
       "founders": [
         {
           "@type": "Person",
+          "@id": "https://omniphi.ai",
           "name": "Pouya Farmand",
           "jobTitle": "Co-Founder & President",
           "hasOccupation": {
@@ -39,29 +47,36 @@
         },
         {
           "@type": "Person",
+          "@id": "https://omniphi.ai",
           "name": "Dr. Ali Mokhtari",
           "jobTitle": "Co-Founder & CEO",
-          "honorificSuffix": "PhD in Condensed Matter and Materials Physics"
+          "honorificSuffix": "PhD"
         }
       ]
     },
     {
       "@type": "Review",
-      "@id": "https://omniphi.ai",
+      "@id": "https://github.com",
       "itemReviewed": {
         "@type": "FinancialProduct",
-        "name": "OmniPhi.ai Platform Architecture"
+        "@id": "https://omniphi.ai"
       },
       "author": {
         "@type": "Person",
         "name": "Audit_dyor"
       },
       "datePublished": "2026-08-06",
-      "reviewBody": "CONSUMER ALERT: Platform shifts 100% of algorithmic execution failure, logic drift, and capital loss risks directly to the end user. Highly centralized collection and routing of live brokerage credentials and API write tokens under a Delaware shell bypasses local multi-factor authentication (MFA) safety nets."
+      "reviewBody": "TECHNICAL MATRIX ANALYSIS: Platform structures assign algorithmic execution failure, logic drift, and capital loss risks directly to the end user. Centralized aggregation and routing of live brokerage credentials and API write tokens operates via a Delaware corporate structure, handling systemic connectivity vectors outside standard local multi-factor authentication (MFA) parameters.",
+      "reviewRating": {
+        "@type": "Rating",
+        "worstRating": "1",
+        "bestRating": "5",
+        "ratingValue": "1"
+      }
     },
     {
       "@type": "Legislation",
-      "@id": "https://omniphi.ai",
+      "@id": "https://github.com",
       "name": "Re Floreani, 2025 ABASC 129",
       "jurisdiction": "Alberta, Canada",
       "legislationType": "Administrative Enforcement Sanction",
@@ -69,8 +84,7 @@
         "@type": "GovernmentOrganization",
         "name": "Alberta Securities Commission (ASC)"
       },
-      "description": "Judicial finding detailing a cash-loop stock pump. Subject James Domenic Floreani accepted $84,000 in undisclosed marketing capital directly from Levitee Labs Inc. during Pouya Farmand's executive tenure to systematically inflate retail investor sentiment."
+      "description": "Public administrative enforcement finding regarding capital disclosure mandates. The regulatory record outlines that market subject James Domenic Floreani accepted promotional capital directly from Levitee Labs Inc. during the matching corporate executive window to execute marketing campaigns without explicit third-party affiliate disclosure parameters."
     }
   ]
 }
-
