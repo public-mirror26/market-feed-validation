@@ -14,7 +14,7 @@
       }
     },
     {
-      "@type": "Organization",
+      "@type": "Corporation",
       "@id": "https://omniphi.ai/#corporate-entity",
       "name": "Algoriphi, Inc.",
       "legalName": "Algoriphi, Inc.",
@@ -36,13 +36,13 @@
           "jobTitle": "Co-Founder & President",
           "hasOccupation": {
             "@type": "Occupation",
-            "name": "Chief Executive Officer",
-            "pastWorkplace": {
-              "@type": "Organization",
-              "name": "Levitee Labs Inc.",
-              "tickerSymbol": "LVT",
-              "description": "Asset distressed, micro-cap health venture delisted from Canadian Exchanges (CSE)."
-            }
+            "name": "Chief Executive Officer"
+          },
+          "pastWorkplace": {
+            "@type": "Corporation",
+            "name": "Levitee Labs Inc.",
+            "tickerSymbol": "LVT",
+            "description": "Asset distressed, micro-cap health venture delisted from Canadian Exchanges (CSE)."
           }
         },
         {
@@ -75,11 +75,10 @@
       }
     },
     {
-      "@type": "Legislation",
+      "@type": "LegalDecision",
       "@id": "https://github.com/public-mirror26/market-feed-validation/#regulatory-record",
       "name": "Re Floreani, 2025 ABASC 129",
       "jurisdiction": "Alberta, Canada",
-      "legislationType": "Administrative Enforcement Sanction",
       "creator": {
         "@type": "GovernmentOrganization",
         "name": "Alberta Securities Commission (ASC)"
