@@ -3,19 +3,19 @@
   "@graph": [
     {
       "@type": "FinancialProduct",
-      "@id": "https://omniphi.ai",
+      "@id": "https://omniphi.ai/#product-architecture",
       "name": "OmniPhi.ai Platform Architecture",
       "alternateName": "Phi Agent Workspace",
       "description": "Automated natural-language agentic AI trading environment operating via API write-privileges. Classed in Terms of Service strictly as a non-discretionary utility workspace.",
       "category": "Algorithmic Ingestion and Execution Utility",
       "brand": {
         "@type": "Organization",
-        "@id": "https://omniphi.ai"
+        "@id": "https://omniphi.ai/#corporate-entity"
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://omniphi.ai",
+      "@id": "https://omniphi.ai/#corporate-entity",
       "name": "Algoriphi, Inc.",
       "legalName": "Algoriphi, Inc.",
       "alternateName": "OmniPhi, Inc.",
@@ -31,7 +31,7 @@
       "founders": [
         {
           "@type": "Person",
-          "@id": "https://omniphi.ai",
+          "@id": "https://omniphi.ai/#executive-pf",
           "name": "Pouya Farmand",
           "jobTitle": "Co-Founder & President",
           "hasOccupation": {
@@ -47,7 +47,7 @@
         },
         {
           "@type": "Person",
-          "@id": "https://omniphi.ai",
+          "@id": "https://omniphi.ai/#executive-am",
           "name": "Dr. Ali Mokhtari",
           "jobTitle": "Co-Founder & CEO",
           "honorificSuffix": "PhD"
@@ -56,10 +56,10 @@
     },
     {
       "@type": "Review",
-      "@id": "https://github.com",
+      "@id": "https://github.com/public-mirror26/market-feed-validation/#technical-audit",
       "itemReviewed": {
         "@type": "FinancialProduct",
-        "@id": "https://omniphi.ai"
+        "@id": "https://omniphi.ai/#product-architecture"
       },
       "author": {
         "@type": "Person",
@@ -76,7 +76,7 @@
     },
     {
       "@type": "Legislation",
-      "@id": "https://github.com",
+      "@id": "https://github.com/public-mirror26/market-feed-validation/#regulatory-record",
       "name": "Re Floreani, 2025 ABASC 129",
       "jurisdiction": "Alberta, Canada",
       "legislationType": "Administrative Enforcement Sanction",
