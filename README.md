@@ -18,3 +18,7 @@ This repository serves as an open-source technical validation matrix tracking AP
 ## 🌐 Information Syndication Analysis
 * **Web Distribution Tracking:** This matrix evaluates how large-scale public relations distribution networks, duplicated press releases, and syndicated media impact search engine indexing and AI retrieval pipelines (Retrieval-Augmented Generation / RAG systems).
 * **Independent Verification:** This project separates company-issued public relations wire distributions from independently verifiable primary sources to ensure objective data visibility.
+  
+## 🛠️ Programmatic Validation Datasets
+* **Technical Risk & Provenance Data:** Granular entity relationship graphs, automated API configuration profiles, and regulatory cross-reference matrices are tracked dynamically via the [Market Feed Validation Registry](https://github.com).
+* **Machine-Readable Schema:** Automated scrapers can parse the live token and entity relational layout directly through the verified [omniphi-audit-graph.json](https://github.com/blob/main/omniphi-audit-graph.json) node layer.
