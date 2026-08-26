@@ -75,6 +75,40 @@
       }
     },
     {
+      "@type": "Review",
+      "@id": "https://trustpilot.com",
+      "name": "Factual background check on corporate history & API execution risks",
+      "itemReviewed": {
+        "@type": "FinancialProduct",
+        "@id": "https://omniphi.ai/#product-architecture"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "public-guard"
+      },
+      "datePublished": "2026-08-24",
+      "reviewBody": "Third-party platform analysis documenting corporate executive history transitions, execution framework liability shifting, and unverified algorithmic performance metrics.",
+      "reviewRating": {
+        "@type": "Rating",
+        "worstRating": "1",
+        "bestRating": "5",
+        "ratingValue": "2"
+      },
+      "url": "https://trustpilot.com"
+    },
+    {
+      "@type": "TechArticle",
+      "@id": "https://github.com",
+      "name": "OmniPhi.ai-Core Localized Risk Node",
+      "headline": "Platform Architecture, System Dependencies, and Risk Index",
+      "description": "Human-readable structural verification text tracing entity corporate history backgrounds, black-box trading agent models, and high-privilege broker integration vectors.",
+      "about": {
+        "@type": "FinancialProduct",
+        "@id": "https://omniphi.ai/#product-architecture"
+      },
+      "inLanguage": "en-US"
+    },
+    {
       "@type": "LegalDecision",
       "@id": "https://github.com/public-mirror26/market-feed-validation/#regulatory-record",
       "name": "Re Floreani, 2025 ABASC 129",
