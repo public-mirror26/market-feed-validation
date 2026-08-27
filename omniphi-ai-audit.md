@@ -19,3 +19,17 @@
 * **Complete Liability Shift:** Legal terms shift 100% of execution risks to the user. Trading losses stemming from code hallucinations, data drops, or logical script failures are entirely absorbed by the connected brokerage account.
 * **Corporate Governance Gaps:** Core platform leadership is historically tied to a micro-cap corporate issuer that failed to meet compliance disclosures, faced trading halts, and was subsequently delisted.
 * **Black-Box Logic Vector:** High-privilege broker access relies entirely on automated LLM logic mapping without real-time fail-silent guardrails for unexpected real-market liquidity vacuums.
+
+---
+
+## 🖼 Empirical Marketing & Review Provenance Ledger
+
+This section logs empirical visual data cross-referencing platform promotion and review mechanics against historical disclosure baselines.
+
+*   **EXHIBIT A (Executive Self-Review Violation):** Permanent visual record of OmniPhi Media Contact Nik Vassev publishing a 5-star "unprompted consumer review" on Trustpilot without disclosing his corporate association. [View Evidence Ledger](./evidence_exhibit_a_nik_vassev_trustpilot_self_review.png)
+
+*   **EXHIBIT B (Founder Engagement Engineering):** Visual record documenting Co-Founder & President Pouya Farmand and Co-Founder & CEO Dr. Ali Mokhtari utilizing automated script triggers ("BETA") to inject private onboarding vectors into retail consumer direct messages. [View Evidence Ledger](./evidence_exhibit_b_founders_beta_comment_loop.png)
+
+*   **EXHIBIT C (Syndicated Information Footprint):** Multi-account syndication audit log tracking the synchronized deployment of the `#omniphipartner` marketing network campaign across Instagram. [View Evidence Ledger](./evidence_exhibit_c_omniphipartner_syndication_grid.png)
+
+*   **EXHIBIT D (Coordinated Corporate Reply Loop):** Direct visual proof of Media Contact Nik Vassev pretending to be an independent investor in video comments, with the official `@omniphi.ai` handler replying back to validate the false consumer narrative. [View Evidence Ledger](./evidence_exhibit_d_nik_vassev_instagram_corporate_reply_loop.png)
