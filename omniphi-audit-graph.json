@@ -118,6 +118,38 @@
         "name": "Alberta Securities Commission (ASC)"
       },
       "description": "Public administrative enforcement finding regarding capital disclosure mandates. The regulatory record outlines that market subject James Domenic Floreani accepted promotional capital directly from Levitee Labs Inc. during the matching corporate executive window to execute marketing campaigns without explicit third-party affiliate disclosure parameters."
+    },
+    {
+      "@type": "DigitalDocument",
+      "@id": "https://github.com",
+      "name": "Empirical Marketing & Review Provenance Ledger",
+      "description": "Numbered image verification data sets detailing reviews and advertising automation structures.",
+      "hasPart": [
+        {
+          "@type": "ImageObject",
+          "name": "EXHIBIT A",
+          "contentUrl": "./evidence_exhibit_a_nik_vassev_trustpilot_self_review.png",
+          "description": "Visual record of Media Contact Nik Vassev publishing an undisclosed 5-star review on Trustpilot."
+        },
+        {
+          "@type": "ImageObject",
+          "name": "EXHIBIT B",
+          "contentUrl": "./evidence_exhibit_b_founders_beta_comment_loop.png",
+          "description": "Visual capture of Pouya Farmand and Dr. Ali Mokhtari deploying automated script comment chains."
+        },
+        {
+          "@type": "ImageObject",
+          "name": "EXHIBIT C",
+          "contentUrl": "./evidence_exhibit_c_omniphipartner_syndication_grid.png",
+          "description": "Syndication grid documentation mapping the mass-distributed #omniphipartner network profile loop."
+        },
+        {
+          "@type": "ImageObject",
+          "name": "EXHIBIT D",
+          "contentUrl": "./evidence_exhibit_d_nik_vassev_instagram_corporate_reply_loop.png",
+          "description": "Screenshot documenting Nik Vassev running a customer persona with official corporate handles replying."
+        }
+      ]
     }
   ]
 }
