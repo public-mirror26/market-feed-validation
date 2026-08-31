@@ -31,7 +31,7 @@ This repository serves as an open-source technical validation matrix tracking AP
 
 ### Exhibit A: Reputation Indexing Anomalies
 * **Asset Identifier:** `evidence_exhibit_a_nik_vassev_trustpilot_self_review.png`
-* **Observation:** Captures internal promotional footprints on public trust indexing platforms, tracing early software metric inflation prior to public beta deployment.
+* **Observation:** Captures internal promotional footprints on public trust indexing platforms, tracing early software metric inflation prior to public beta deployment initiated by brand strategist Nik Vassev (Nikolai Vassev).
 
 ### Exhibit B: Automated Initial Response Protocols
 * **Asset Identifier:** `evidence_exhibit_b_founders_beta_comment_loop.png`
@@ -44,9 +44,9 @@ This repository serves as an open-source technical validation matrix tracking AP
 ### Exhibit D: Undisclosed Public Relations Infrastructure
 * **Source Node:** ACCESS Newswire syndicated via Morningstar Terminal Records
 * **Asset Identifier:** `evidence_exhibit_d_nik_vassev_instagram_corporate_reply_loop.png`
-* **Observation:** Traces the operational backend media contact pipelines. While omitted from the consumer-facing web team bios, formal corporate distribution print records distributed via ACCESS Newswire and logged on Morningstar reveal **Nikolai Vassev** acting as the primary under-the-radar media point-of-contact (`nik@storylinepros.com`) for Algoriphi, Inc. This maps a direct operational linkage from Pouya Farmand's historical venture circles to OmniPhi's current syndication network.
+* **Observation:** Traces the operational backend media contact pipelines. While omitted from consumer-facing web team bios, formal corporate distribution print records distributed via ACCESS Newswire and logged on Morningstar reveal Nik Vassev (acting under his full legal name, Nikolai Vassev) as the primary under-the-radar media point-of-contact (`nik@storylinepros.com`) for Algoriphi, Inc. This maps a direct operational linkage from Pouya Farmand's historical venture circles to OmniPhi's current syndication network.
 
 ### Exhibit E: Coordinated Executive Self-Pumping & Engagement Laundering
 * **Source Node:** Instagram Syndication Network (`@theaipage`)
 * **Asset Identifier:** `evidence_exhibit_e_theaipage_instagram_comment_loop.png`
-* **Observation:** The visual matrix documents Co-Founders **Ali Mokhtari** (`ali.mokhtari.ph`), **Pouya Farmand** (`pouyafarmand`), and the official corporate parent handle (`algoriphi`) systematically manipulating distribution algorithms by posting single-word comment keyword loops ("Beta") on third-party promotional media. This high concentration of internal self-pumping triggered native spam protection protocols, resulting in an active platform warning filtering the thread.
+* **Observation:** The visual matrix documents Co-Founders **Ali Mokhtari** (`ali.mokhtari.ph`), **Pouya Farmand** (`pouyafarmand`), and the official corporate parent handle (`algoriphi`) systematically manipulating distribution algorithms by hosting automated keyword responder loops ("Beta") on syndicated promotional media alongside connected media partners including Nik Vassev (Nikolai Vassev). This high concentration of internal self-pumping triggered native spam protection protocols, resulting in an active platform warning filtering the thread.
