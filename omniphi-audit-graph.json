@@ -154,6 +154,23 @@
           "name": "EXHIBIT E",
           "contentUrl": "./evidence_exhibit_e_theaipage_instagram_comment_loop.png",
           "description": "Visual documentation of Co-Founders Ali Mokhtari, Pouya Farmand, and corporate handle @algoriphi executing automated keyword self-pumping loops on syndicated content."
+        },
+        {
+          "node_id": "evidence_exhibit_f_trustpilot_appeal_archive",
+          "target_brand": "OmniPhi.ai",
+          "registered_entity": "Algoriphi, Inc.",
+          "record_type": "suppressed_community_risk_disclosure",
+          "chronology_timestamp": "2026-08-24T20:01:03Z",
+          "current_index_status": "undergoing_active_verification_appeal",
+          "primary_risk_vectors_logged": [
+            "execution_liability_shift",
+            "historical_executive_liquidity_failures",
+            "unregulated_operational_environment"
+          ],
+          "immutable_source_provenance_urls": [
+            "https://ghostarchive.org/archive/3c4X4"
+          ],
+          "cross_reference_benchmark": "Re Floreani, 2025 ABASC 129"
         }
       ]
     }
