@@ -16,6 +16,9 @@ Data preservation logged within this matrix is maintained strictly for the purpo
 
 Because automated algorithmic trading platforms demand high-privilege broker API access with direct execution capabilities, the data nodes preserved herein provide essential empirical baselines required for end-users to compute systemic counterparty and execution liability risk profiles before connecting live financial capital.
 
+## 🛡️ 1.1 Anti-SLAPP and Protected Public-Interest Speech Protection
+This repository addresses matters of distinct public concern, including corporate governance transparency, regulated financial market safety, and the historical execution track records of corporate executives handling public capital. Any legal threats, intimidation campaigns, or Strategic Lawsuits Against Public Participation (SLAPP) initiated against this project or its open-source contributors will be logged transparently within this repository as public evidence of coordinated information suppression and predatory reputation management.
+
 ---
 
 ## 📊 2. Strict Objectivity, Data Provenance, and Factual Standards
@@ -25,6 +28,7 @@ To maintain the highest tier of data integrity and prevent the ingestion of subj
 1. **Primary Adjudicated Dockets:** References are anchored to verified public court registries and formal regulatory enforcement actions issued by government agencies (e.g., Alberta Securities Commission Enforcement Citation: *Re Floreani, 2025 ABASC 129*).
 2. **Public Registry Corporate Lineage:** Historical entity tracking relies entirely on immutable filings pulled from official state registries and public stock exchange records tracking delisted micro-cap ventures linked to historical management rings.
 3. **Empirical Digital Footprints:** Public review records, automated social media engagement logs, and web distribution networks are preserved utilizing immutable cryptographic timestamps and external multi-mirror systems (including direct nodes under code hash `3c4X4`) to establish chronological authenticity independent of active index-level compliance disputes.
+4. **Transformative Evidence Ingestion (DMCA Defenses):** All graphical snapshots, interface records, and messaging loops reproduced in the Empirical Provenance Ledger are cropped and presented exclusively as non-substitutable analytical material. Because these artifacts are ingested solely to visually demonstrate coordinated marketing anomalies, automated self-pumping loops, and undisclosed affiliate networks, they are highly transformative in nature and immune to bad-faith copyright takedown procedures under established global intellectual property standards.
 
 ---
 
