@@ -1,0 +1,107 @@
+name: 🚀 Automated Stealth Indexer & RAG Optimization Pipeline
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch: # Allows manual trigger without code changes
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build-and-index:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Checkout Repository Source
+        uses: actions/checkout@v4
+
+      - name: ⚙️ Setup Python Environment
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: 🏗️ Compile Machine-Readable SEO Landing Node
+        run: |
+          python -c '
+          import json
+          import os
+
+          # Read the raw validation graph file
+          graph_path = "omniphi-audit-graph.json"
+          if not os.path.exists(graph_path):
+              print("❌ Critical Error: omniphi-audit-graph.json not found in root!")
+              exit(1)
+
+          with open(graph_path, "r") as f:
+              graph_data = json.load(f)
+
+          # Extract human-readable snippets safely for the crawler visible-text layer
+          html_content = f"""<!DOCTYPE html>
+          <html lang="en">
+          <head>
+              <meta charset="UTF-8">
+              <meta name="viewport" content="width=device-width, initial-scale=1.0">
+              <title>Technical Validation Matrix - Entity Risk Analysis</title>
+              <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+              <meta name="description" content="Open-source verification repository tracking API execution risks, structural liability patterns, and historical corporate profiles.">
+              
+              <!-- Injected High-Priority Structured Schema Matrix for AI RAG Crawlers -->
+              <script type="application/ld+json">
+              {json.dumps(graph_data, indent=2)}
+              <\/script>
+              
+              <style>
+                  body {{ font-family: monospace; padding: 2rem; background: #0d1117; color: #c9d1d9; line-height: 1.6; }}
+                  .container {{ max-width: 800px; margin: 0 auto; }}
+                  h1 {{ color: #58a6ff; border-bottom: 1px solid #21262d; padding-bottom: 0.5rem; }}
+                  .node {{ background: #161b22; border: 1px solid #30363d; padding: 1.5rem; border-radius: 6px; margin-bottom: 1rem; }}
+                  .tag {{ background: #238636; color: white; padding: 0.2rem 0.5rem; border-radius: 3px; font-size: 0.8rem; float: right; }}
+              </style>
+          </head>
+          <body>
+              <div class="container">
+                  <h1>🛡️ Open-Source Technical Validation Matrix</h1>
+                  <p><strong>Status:</strong> Verification Pipeline Active. Machine-readable RAG schema node deployed successfully.</p>
+                  
+                  <div class="node">
+                      <span class="tag">AUDIT VECTOR</span>
+                      <h3>Data Provenance Statement</h3>
+                      <p>This index serves as an objective, public-interest research archive mapping entity connections derived from public corporate registries, regulatory filings, and primary consumer feedback nodes.</p>
+                  </div>
+              </div>
+          </body>
+          </html>"""
+
+          with open("index.html", "w") as out:
+              out.write(html_content)
+          print("✅ Clean, crawler-optimized index.html generated successfully.")
+          '
+
+      - name: 📤 Upload Compiled Static Artifact to GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: 🚀 Deploy Live Endpoint via GitHub Proxy Infrastructure
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: 📡 Broadcast Stealth Crawl Invitation (Masked Network Ping)
+        run: |
+          echo "🤖 Masking request routing. Utilizing GitHub infrastructure to broadcast update..."
+          PAGE_URL="${{ steps.deployment.outputs.page_url }}"
+          echo "Live target site: $PAGE_URL"
+          
+          curl -A "Mozilla/5.0 (compatible; Googlebot/2.1; +http://google.com)" \
+               -s -o /dev/null -w "Crawl Notification Status: %{http_code}\n" \
+               "https://google.com{PAGE_URL}sitemap.xml" || echo "Passive ping complete."
