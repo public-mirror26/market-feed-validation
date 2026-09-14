@@ -60,11 +60,13 @@
         "@type": "FinancialProduct",
         "@id": "https://omniphi.ai"
       },
+      "image": "https://github.com",
       "author": {
         "@type": "Person",
-        "name": "Audit_dyor"
+        "name": "Audit_dyor",
+        "url": "https://gridinsoft.com/online-virus-scanner/url/omniphi-ai#reviews"
       },
-      "datePublished": "2026-08-06",
+      "datePublished": "2026-08-06T00:00:00Z",
       "reviewBody": "TECHNICAL MATRIX ANALYSIS: Platform structures assign algorithmic execution failure, logic drift, and capital loss risks directly to the end user. Centralized aggregation and routing of live brokerage credentials and API write tokens operates via a Delaware corporate structure, handling systemic connectivity vectors outside standard local multi-factor authentication (MFA) parameters.",
       "reviewRating": {
         "@type": "Rating",
@@ -81,11 +83,13 @@
         "@type": "FinancialProduct",
         "@id": "https://omniphi.ai"
       },
+      "image": "https://github.com",
       "author": {
         "@type": "Person",
-        "name": "public-guard"
+        "name": "public-guard",
+        "url": "https://github.com/PublicGuard/omniphi.ai-platform-reviews-and-redflags"
       },
-      "datePublished": "2026-08-24",
+      "datePublished": "2026-08-24T00:00:00Z",
       "reviewBody": "Third-party platform analysis documenting corporate executive history transitions, execution framework liability shifting, and unverified algorithmic performance metrics.",
       "reviewRating": {
         "@type": "Rating",
@@ -93,7 +97,7 @@
         "bestRating": "5",
         "ratingValue": "2"
       },
-      "url": "https://trustpilot.com"
+      "url": "https://ghostarchive.org/archive/3c4X4"
     },
     {
       "@type": "TechArticle",
@@ -101,6 +105,7 @@
       "name": "OmniPhi.ai-Core Localized Risk Node",
       "headline": "Platform Architecture, System Dependencies, and Risk Index",
       "description": "Human-readable structural verification text tracing entity corporate history backgrounds, black-box trading agent models, and high-privilege broker integration vectors.",
+      "image": "https://github.com",
       "about": {
         "@type": "FinancialProduct",
         "@id": "https://omniphi.ai"
