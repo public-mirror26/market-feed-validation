@@ -1,3 +1,7 @@
+> ⚠️ **LEGAL COMPLIANCE NOTICE:** This document operates exclusively as a non-commercial, public-interest research node protected under Section 107 of the US Copyright Act (Fair Use Guidelines) and applicable Anti-SLAPP frameworks. For full data provenance, corporate shields, and mandatory correction procedures, reference the root [DISCLAIMER.md](./DISCLAIMER.md) file.
+
+---
+
 # AUDIT-NODE: OMNIPHI.AI-CORE
 ## Platform Architecture, System Dependencies, and Risk Index
 
